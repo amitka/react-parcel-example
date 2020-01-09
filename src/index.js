@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import logo from './logo.svg';
+import logo from '../assets/logo.svg';
 import './index.css';
 
 const App = () => (
